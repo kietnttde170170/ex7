@@ -1,0 +1,22 @@
+{
+  "name": "ex7",
+  "version": "1.0.0",
+  "description": "ex7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kietnttde170170/ex7.git"
+  },
+  "author": "Tuan Kiet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kietnttde170170/ex7/issues"
+  },
+  "homepage": "https://github.com/kietnttde170170/ex7#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
